@@ -1,7 +1,7 @@
-# BongoDev Python Tasks – Beginner Level
+# BongoDev Python Tasks
 # Python_starter
 
-This repository contains solutions to 15 beginner-level Python problems provided by **BongoDev** as part of their programming training curriculum.
+This repository contains solutions to 15 starter-level Python problems provided by **BongoDev** as part of their programming training curriculum.
 
 🔍 Problem Topics:
 - Variables and data types
